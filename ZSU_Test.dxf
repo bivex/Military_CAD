@@ -1,0 +1,9604 @@
+999
+dxfrw 0.6.3
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1021
+  9
+$DWGCODEPAGE
+  3
+ANSI_1251
+  9
+$INSBASE
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$EXTMIN
+ 10
+40000
+ 20
+8500
+ 30
+0
+  9
+$EXTMAX
+ 10
+40000
+ 20
+8500
+ 30
+0
+  9
+$LIMMIN
+ 10
+0
+ 20
+0
+  9
+$LIMMAX
+ 10
+420
+ 20
+297
+  9
+$ORTHOMODE
+ 70
+    0
+  9
+$REGENMODE
+ 70
+    1
+  9
+$FILLMODE
+ 70
+    1
+  9
+$QTEXTMODE
+ 70
+    0
+  9
+$MIRRTEXT
+ 70
+    0
+  9
+$LTSCALE
+ 40
+1
+  9
+$ATTMODE
+ 70
+    0
+  9
+$TEXTSIZE
+ 40
+2.5
+  9
+$TRACEWID
+ 40
+15.68
+  9
+$TEXTSTYLE
+  7
+STANDARD
+  9
+$CLAYER
+  8
+План_Будівництва
+  9
+$CELTYPE
+  6
+BYLAYER
+  9
+$CECOLOR
+ 62
+  256
+  9
+$CELTSCALE
+ 40
+1
+  9
+$DISPSILH
+ 70
+    0
+  9
+$DIMSCALE
+ 40
+2.5
+  9
+$DIMASZ
+ 40
+2.5
+  9
+$DIMEXO
+ 40
+0.625
+  9
+$DIMDLI
+ 40
+3.75
+  9
+$DIMRND
+ 40
+0
+  9
+$DIMDLE
+ 40
+0
+  9
+$DIMEXE
+ 40
+1.25
+  9
+$DIMTP
+ 40
+0
+  9
+$DIMTM
+ 40
+0
+  9
+$DIMTXT
+ 40
+2.5
+  9
+$DIMCEN
+ 40
+2.5
+  9
+$DIMTSZ
+ 40
+0
+  9
+$DIMTOL
+ 70
+    0
+  9
+$DIMLIM
+ 70
+    0
+  9
+$DIMTIH
+ 70
+    0
+  9
+$DIMTOH
+ 70
+    0
+  9
+$DIMSE1
+ 70
+    0
+  9
+$DIMSE2
+ 70
+    0
+  9
+$DIMTAD
+ 70
+    1
+  9
+$DIMZIN
+ 70
+    8
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+    1
+  9
+$DIMSHO
+ 70
+    1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+    0
+  9
+$DIMALTD
+ 70
+    3
+  9
+$DIMALTF
+ 40
+0.03937
+  9
+$DIMLFAC
+ 40
+1
+  9
+$DIMTOFL
+ 70
+    1
+  9
+$DIMTVP
+ 40
+0
+  9
+$DIMTIX
+ 70
+    0
+  9
+$DIMSOXD
+ 70
+    0
+  9
+$DIMSAH
+ 70
+    0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+STANDARD
+  9
+$DIMCLRD
+ 70
+    0
+  9
+$DIMCLRE
+ 70
+    0
+  9
+$DIMCLRT
+ 70
+    0
+  9
+$DIMTFAC
+ 40
+1
+  9
+$DIMGAP
+ 40
+0.625
+  9
+$DIMJUST
+ 70
+    0
+  9
+$DIMSD1
+ 70
+    0
+  9
+$DIMSD2
+ 70
+    0
+  9
+$DIMTOLJ
+ 70
+    0
+  9
+$DIMTZIN
+ 70
+    8
+  9
+$DIMALTZ
+ 70
+    0
+  9
+$DIMALTTZ
+ 70
+    0
+  9
+$DIMUPT
+ 70
+    0
+  9
+$DIMDEC
+ 70
+    2
+  9
+$DIMTDEC
+ 70
+    2
+  9
+$DIMALTU
+ 70
+    2
+  9
+$DIMALTTD
+ 70
+    3
+  9
+$DIMTXSTY
+  7
+STANDARD
+  9
+$DIMAUNIT
+ 70
+    0
+  9
+$DIMADEC
+ 70
+    0
+  9
+$DIMALTRND
+ 40
+0
+  9
+$DIMAZIN
+ 70
+    0
+  9
+$DIMDSEP
+ 70
+   44
+  9
+$DIMATFIT
+ 70
+    3
+  9
+$DIMFRAC
+ 70
+    0
+  9
+$DIMLDRBLK
+  1
+STANDARD
+  9
+$DIMLUNIT
+ 70
+    2
+  9
+$DIMLWD
+ 70
+   -2
+  9
+$DIMLWE
+ 70
+   -2
+  9
+$DIMTMOVE
+ 70
+    0
+  9
+$DIMFXL
+ 40
+1
+  9
+$DIMFXLON
+ 70
+    0
+  9
+$DIMJOGANG
+ 40
+0.7854
+  9
+$DIMTFILL
+ 70
+    0
+  9
+$DIMTFILLCLR
+ 70
+    0
+  9
+$DIMARCSYM
+ 70
+    0
+  9
+$DIMLTYPE
+  6
+
+  9
+$DIMLTEX1
+  6
+
+  9
+$DIMLTEX2
+  6
+
+  9
+$LUNITS
+ 70
+    2
+  9
+$LUPREC
+ 70
+    4
+  9
+$SKETCHINC
+ 40
+1
+  9
+$FILLETRAD
+ 40
+0
+  9
+$AUNITS
+ 70
+    0
+  9
+$AUPREC
+ 70
+    2
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0
+  9
+$PELEVATION
+ 40
+0
+  9
+$THICKNESS
+ 40
+0
+  9
+$LIMCHECK
+ 70
+    0
+  9
+$CHAMFERA
+ 40
+0
+  9
+$CHAMFERB
+ 40
+0
+  9
+$CHAMFERC
+ 40
+0
+  9
+$CHAMFERD
+ 40
+0
+  9
+$SKPOLY
+ 70
+    0
+  9
+$USRTIMER
+ 70
+    1
+  9
+$ANGBASE
+ 50
+0
+  9
+$ANGDIR
+ 70
+    0
+  9
+$PDMODE
+ 70
+   96
+  9
+$PDSIZE
+ 40
+-2
+  9
+$PLINEWID
+ 40
+0
+  9
+$SPLFRAME
+ 70
+    0
+  9
+$SPLINETYPE
+ 70
+    2
+  9
+$SPLINESEGS
+ 70
+    8
+  9
+$HANDSEED
+  5
+20000
+  9
+$SURFTAB1
+ 70
+    6
+  9
+$SURFTAB2
+ 70
+    6
+  9
+$SURFTYPE
+ 70
+    6
+  9
+$SURFU
+ 70
+    6
+  9
+$SURFV
+ 70
+    6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSXDIR
+ 10
+1
+ 20
+0
+ 30
+0
+  9
+$UCSYDIR
+ 10
+0
+ 20
+1
+ 30
+0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+    0
+  9
+$UCSORGTOP
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSORGBOTTOM
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSORGLEFT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSORGRIGHT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSORGFRONT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$UCSORGBACK
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSXDIR
+ 10
+1
+ 20
+0
+ 30
+0
+  9
+$PUCSYDIR
+ 10
+0
+ 20
+1
+ 30
+0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+    0
+  9
+$PUCSORGTOP
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSORGBOTTOM
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSORGLEFT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSORGRIGHT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSORGFRONT
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PUCSORGBACK
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$USERI1
+ 70
+    0
+  9
+$USERI2
+ 70
+    0
+  9
+$USERI3
+ 70
+    0
+  9
+$USERI4
+ 70
+    0
+  9
+$USERI5
+ 70
+    0
+  9
+$USERR1
+ 40
+0
+  9
+$USERR2
+ 40
+0
+  9
+$USERR3
+ 40
+0
+  9
+$USERR4
+ 40
+0
+  9
+$USERR5
+ 40
+0
+  9
+$WORLDVIEW
+ 70
+    1
+  9
+$SHADEDGE
+ 70
+    3
+  9
+$SHADEDIF
+ 70
+   70
+  9
+$TILEMODE
+ 70
+    1
+  9
+$MAXACTVP
+ 70
+   64
+  9
+$PINSBASE
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PLIMCHECK
+ 70
+    0
+  9
+$PEXTMIN
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$PEXTMAX
+ 10
+0
+ 20
+0
+ 30
+0
+  9
+$GRIDMODE
+ 70
+    1
+  9
+$SNAPSTYLE
+ 70
+    0
+  9
+$PLIMMIN
+ 10
+0
+ 20
+0
+  9
+$PLIMMAX
+ 10
+210
+ 20
+297
+  9
+$UNITMODE
+ 70
+    0
+  9
+$VISRETAIN
+ 70
+    1
+  9
+$PLINEGEN
+ 70
+    0
+  9
+$PSLTSCALE
+ 70
+    1
+  9
+$TREEDEPTH
+ 70
+ 3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+    0
+  9
+$CMLSCALE
+ 40
+20
+  9
+$PROXYGRAPHICS
+ 70
+    1
+  9
+$MEASUREMENT
+ 70
+    1
+  9
+$CELWEIGHT
+370
+   -1
+  9
+$ENDCAPS
+280
+    1
+  9
+$JOINSTYLE
+280
+    1
+  9
+$LWDISPLAY
+290
+    0
+  9
+$INSUNITS
+ 70
+    0
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+    1
+  9
+$CEPSNTYPE
+380
+    0
+  9
+$PSTYLEMODE
+290
+    1
+  9
+$EXTNAMES
+290
+    1
+  9
+$PSVPSCALE
+ 40
+1
+  9
+$OLESTARTUP
+290
+    0
+  9
+$SORTENTS
+280
+  127
+  9
+$INDEXCTL
+280
+    0
+  9
+$HIDETEXT
+280
+    1
+  9
+$XCLIPFRAME
+290
+    0
+  9
+$HALOGAP
+280
+    0
+  9
+$OBSCOLOR
+ 70
+  257
+  9
+$OBSLTYPE
+280
+    0
+  9
+$INTERSECTIONDISPLAY
+280
+    0
+  9
+$INTERSECTIONCOLOR
+ 70
+  257
+  9
+$DIMASSOC
+280
+    1
+  9
+$PROJECTNAME
+  1
+
+  9
+$CAMERADISPLAY
+290
+    0
+  9
+$LENSLENGTH
+ 40
+50
+  9
+$CAMERAHEIGHT
+ 40
+0
+  9
+$STEPSPERSEC
+ 40
+2
+  9
+$STEPSIZE
+ 40
+50
+  9
+$3DDWFPREC
+ 40
+2
+  9
+$PSOLWIDTH
+ 40
+5
+  9
+$PSOLHEIGHT
+ 40
+80
+  9
+$LOFTANG1
+ 40
+1.570796326794897
+  9
+$LOFTANG2
+ 40
+1.570796326794897
+  9
+$LOFTMAG1
+ 40
+0
+  9
+$LOFTMAG2
+ 40
+0
+  9
+$LOFTPARAM
+ 70
+    7
+  9
+$LOFTNORMALS
+280
+    1
+  9
+$LATITUDE
+ 40
+1
+  9
+$LONGITUDE
+ 40
+1
+  9
+$NORTHDIRECTION
+ 40
+0
+  9
+$TIMEZONE
+ 70
+-8000
+  9
+$LIGHTGLYPHDISPLAY
+280
+    1
+  9
+$TILEMODELIGHTSYNCH
+280
+    1
+  9
+$SOLIDHIST
+280
+    1
+  9
+$SHOWHIST
+280
+    1
+  9
+$DWFFRAME
+280
+    2
+  9
+$DGNFRAME
+280
+    0
+  9
+$REALWORLDSCALE
+290
+    1
+  9
+$INTERFERECOLOR
+ 62
+    1
+  9
+$CSHADOW
+280
+    0
+  9
+$SHADOWPLANELOCATION
+ 40
+0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+    1
+  0
+VPORT
+  5
+31
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*ACTIVE
+ 70
+    0
+ 10
+0
+ 20
+0
+ 11
+1
+ 21
+1
+ 12
+4807.033139816159
+ 22
+5095.980487018223
+ 13
+0
+ 23
+0
+ 14
+10
+ 24
+10
+ 15
+10
+ 25
+10
+ 16
+0
+ 26
+0
+ 36
+1
+ 17
+0
+ 27
+0
+ 37
+0
+ 40
+13070.92726979519
+ 41
+1.12379421221865
+ 42
+50
+ 43
+0
+ 44
+0
+ 50
+0
+ 51
+0
+ 71
+    0
+ 72
+  100
+ 73
+    1
+ 74
+    3
+ 75
+    0
+ 76
+    1
+ 77
+    0
+ 78
+    1
+281
+    0
+ 65
+    1
+110
+0
+120
+0
+130
+0
+111
+1
+121
+0
+131
+0
+112
+0
+122
+1
+132
+0
+ 79
+    0
+146
+0
+348
+10020
+ 60
+    7
+ 61
+    5
+292
+1
+282
+    1
+141
+0
+142
+0
+ 63
+  250
+421
+3358443
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+    4
+  0
+LTYPE
+  5
+14
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+    0
+  3
+
+ 72
+   65
+ 73
+    0
+ 40
+0
+  0
+LTYPE
+  5
+15
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+    0
+  3
+
+ 72
+   65
+ 73
+    0
+ 40
+0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+    0
+  3
+Solid line
+ 72
+   65
+ 73
+    0
+ 40
+0
+  0
+LTYPE
+  5
+32
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOT
+ 70
+    0
+  3
+Dot . . . . . . . . . . . . . . . . . . . . . .
+ 72
+   65
+ 73
+    2
+ 40
+6.35
+ 49
+0
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+  0
+LTYPE
+  5
+33
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOTTINY
+ 70
+    0
+  3
+Dot (.15x) .....................................
+ 72
+   65
+ 73
+    2
+ 40
+0.9525
+ 49
+0
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+  0
+LTYPE
+  5
+34
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOT2
+ 70
+    0
+  3
+Dot (.5x) .....................................
+ 72
+   65
+ 73
+    2
+ 40
+3.175
+ 49
+0
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+  0
+LTYPE
+  5
+35
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOTX2
+ 70
+    0
+  3
+Dot (2x) .  .  .  .  .  .  .  .  .  .  .  .  .
+ 72
+   65
+ 73
+    2
+ 40
+12.7
+ 49
+0
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+  0
+LTYPE
+  5
+36
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHED
+ 70
+    0
+  3
+Dashed _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ 72
+   65
+ 73
+    2
+ 40
+19.05
+ 49
+12.7
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+  0
+LTYPE
+  5
+37
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHEDTINY
+ 70
+    0
+  3
+Dashed (.15x) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ 72
+   65
+ 73
+    2
+ 40
+2.8575
+ 49
+1.905
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+  0
+LTYPE
+  5
+38
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHED2
+ 70
+    0
+  3
+Dashed (.5x) _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ 72
+   65
+ 73
+    2
+ 40
+9.524999999999999
+ 49
+6.35
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+  0
+LTYPE
+  5
+39
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHEDX2
+ 70
+    0
+  3
+Dashed (2x) ____  ____  ____  ____  ____  ___
+ 72
+   65
+ 73
+    2
+ 40
+38.09999999999999
+ 49
+25.4
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+  0
+LTYPE
+  5
+3A
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOT
+ 70
+    0
+  3
+Dash dot __ . __ . __ . __ . __ . __ . __ . __
+ 72
+   65
+ 73
+    4
+ 40
+25.4
+ 49
+12.7
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+  0
+LTYPE
+  5
+3B
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOTTINY
+ 70
+    0
+  3
+Dash dot (.15x) _._._._._._._._._._._._._._._.
+ 72
+   65
+ 73
+    4
+ 40
+3.81
+ 49
+1.905
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+  0
+LTYPE
+  5
+3C
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOT2
+ 70
+    0
+  3
+Dash dot (.5x) _._._._._._._._._._._._._._._.
+ 72
+   65
+ 73
+    4
+ 40
+12.7
+ 49
+6.35
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+  0
+LTYPE
+  5
+3D
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOTX2
+ 70
+    0
+  3
+Dash dot (2x) ____  .  ____  .  ____  .  ___
+ 72
+   65
+ 73
+    4
+ 40
+50.8
+ 49
+25.4
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+  0
+LTYPE
+  5
+3E
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDE
+ 70
+    0
+  3
+Divide ____ . . ____ . . ____ . . ____ . . ____
+ 72
+   65
+ 73
+    6
+ 40
+31.75
+ 49
+12.7
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+  0
+LTYPE
+  5
+3F
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDETINY
+ 70
+    0
+  3
+Divide (.15x) __..__..__..__..__..__..__..__.._
+ 72
+   65
+ 73
+    6
+ 40
+4.7625
+ 49
+1.905
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+  0
+LTYPE
+  5
+40
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDE2
+ 70
+    0
+  3
+Divide (.5x) __..__..__..__..__..__..__..__.._
+ 72
+   65
+ 73
+    6
+ 40
+15.875
+ 49
+6.35
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+  0
+LTYPE
+  5
+41
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDEX2
+ 70
+    0
+  3
+Divide (2x) ________  .  .  ________  .  .  _
+ 72
+   65
+ 73
+    6
+ 40
+63.5
+ 49
+25.4
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+  0
+LTYPE
+  5
+42
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+BORDER
+ 70
+    0
+  3
+Border __ __ . __ __ . __ __ . __ __ . __ __ .
+ 72
+   65
+ 73
+    6
+ 40
+44.45
+ 49
+12.7
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+ 49
+12.7
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+  0
+LTYPE
+  5
+43
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+BORDERTINY
+ 70
+    0
+  3
+Border (.15x) __.__.__.__.__.__.__.__.__.__.__.
+ 72
+   65
+ 73
+    6
+ 40
+6.6675
+ 49
+1.905
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+ 49
+1.905
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+  0
+LTYPE
+  5
+44
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+BORDER2
+ 70
+    0
+  3
+Border (.5x) __.__.__.__.__.__.__.__.__.__.__.
+ 72
+   65
+ 73
+    6
+ 40
+22.225
+ 49
+6.35
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+ 49
+6.35
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+  0
+LTYPE
+  5
+45
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+BORDERX2
+ 70
+    0
+  3
+Border (2x) ____  ____  .  ____  ____  .  ___
+ 72
+   65
+ 73
+    6
+ 40
+88.89999999999999
+ 49
+25.4
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+ 49
+25.4
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+ 49
+0
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+  0
+LTYPE
+  5
+46
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTER
+ 70
+    0
+  3
+Center ____ _ ____ _ ____ _ ____ _ ____ _ ____
+ 72
+   65
+ 73
+    4
+ 40
+50.8
+ 49
+31.75
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+ 49
+6.35
+ 74
+    0
+ 49
+-6.35
+ 74
+    0
+  0
+LTYPE
+  5
+47
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTERTINY
+ 70
+    0
+  3
+Center (.15x) ___ _ ___ _ ___ _ ___ _ ___ _ ___
+ 72
+   65
+ 73
+    4
+ 40
+7.619999999999999
+ 49
+4.7625
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+ 49
+0.9525
+ 74
+    0
+ 49
+-0.9525
+ 74
+    0
+  0
+LTYPE
+  5
+48
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTER2
+ 70
+    0
+  3
+Center (.5x) ___ _ ___ _ ___ _ ___ _ ___ _ ___
+ 72
+   65
+ 73
+    4
+ 40
+28.575
+ 49
+19.05
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+ 49
+3.175
+ 74
+    0
+ 49
+-3.175
+ 74
+    0
+  0
+LTYPE
+  5
+49
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTERX2
+ 70
+    0
+  3
+Center (2x) ________  __  ________  __  _____
+ 72
+   65
+ 73
+    4
+ 40
+101.6
+ 49
+63.5
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+ 49
+12.7
+ 74
+    0
+ 49
+-12.7
+ 74
+    0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2
+330
+0
+100
+AcDbSymbolTable
+ 70
+    1
+  0
+LAYER
+  5
+10
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+   25
+390
+F
+  0
+LAYER
+  5
+4A
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Інтер_єр_Детально
+ 70
+    0
+ 62
+   96
+420
+32768
+  6
+CONTINUOUS
+370
+   35
+390
+F
+  0
+LAYER
+  5
+4B
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Анотації
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+4C
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Анотації_Бліндаж
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+4D
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Анотації_ВИДИМІ
+ 70
+    0
+ 62
+    1
+  6
+CONTINUOUS
+370
+   50
+390
+F
+  0
+LAYER
+  5
+4E
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Анотації_Детальні
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+4F
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Анотації_УКР_ВИДИМІ
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+50
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Великі_Підписи
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+51
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Внутрішнє_облаштування
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+52
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Внутрішні_Елементи
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+53
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Вогневі_позиції
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+54
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Засипка_Землею
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+55
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Захисний_Шар_Грунт
+ 70
+    1
+ 62
+    7
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+56
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Конструктив_Захищений
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+57
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+План_Будівництва
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+58
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Розміри
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+59
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Розміри_Бліндаж
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+5A
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Сектори_вогню
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+5B
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Стіни_Бліндажа
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+5C
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Траншеї
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+    3
+  0
+STYLE
+  5
+5D
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+unicode
+ 70
+    0
+ 40
+0
+ 41
+1
+ 50
+0
+ 71
+    0
+ 42
+1
+  3
+unicode
+  4
+
+  0
+STYLE
+  5
+5E
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+standard
+ 70
+    0
+ 40
+0
+ 41
+1
+ 50
+0
+ 71
+    0
+ 42
+1
+  3
+standard
+  4
+
+  0
+STYLE
+  5
+5F
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+    0
+ 40
+0
+ 41
+1
+ 50
+0
+ 71
+    0
+ 42
+1
+  3
+Standard
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+    0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+    0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+    1
+  0
+APPID
+  5
+12
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+    0
+  0
+APPID
+  5
+60
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+LibreCad
+ 70
+    0
+  0
+APPID
+  5
+61
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMTALN
+ 70
+    0
+  0
+APPID
+  5
+62
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMJAG_POSITION
+ 70
+    0
+  0
+APPID
+  5
+63
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD_DSTYLE_DIMJAG
+ 70
+    0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+    1
+100
+AcDbDimStyleTable
+ 71
+    1
+  0
+DIMSTYLE
+105
+64
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Standard
+ 70
+    0
+ 40
+1
+ 41
+0.18
+ 42
+0.0625
+ 43
+0.38
+ 44
+0.18
+ 45
+0
+ 46
+0
+ 47
+0
+ 48
+0
+ 49
+1
+140
+0.18
+141
+0.09
+142
+0
+143
+25.4
+144
+1
+145
+0
+146
+1
+147
+0.09
+148
+0
+ 71
+    0
+ 72
+    0
+ 73
+    0
+ 74
+    1
+ 75
+    0
+ 76
+    0
+ 77
+    0
+ 78
+    0
+ 79
+    0
+170
+    0
+171
+    2
+172
+    0
+173
+    0
+174
+    0
+175
+    0
+176
+    0
+177
+    0
+178
+    0
+179
+    0
+271
+    4
+272
+    4
+273
+    2
+274
+    2
+275
+    0
+276
+    0
+277
+    2
+278
+   46
+279
+    0
+280
+    0
+281
+    0
+282
+    0
+283
+    1
+284
+    0
+285
+    0
+286
+    0
+288
+    0
+289
+    3
+340
+5F
+179
+    0
+170
+    0
+171
+    3
+143
+0.03937
+148
+0
+274
+    3
+286
+    0
+273
+    2
+285
+    0
+  4
+
+ 90
+    0
+ 41
+2.5
+289
+    3
+275
+    0
+ 79
+    0
+141
+2.5
+176
+    0
+177
+    0
+178
+    0
+271
+    2
+ 46
+0
+ 43
+3.75
+278
+   44
+ 44
+1.25
+ 42
+0.625
+276
+    0
+ 49
+1
+290
+    0
+147
+0.625
+280
+    0
+144
+1
+ 72
+    0
+277
+    2
+371
+   -2
+372
+   -2
+  3
+
+ 45
+0
+173
+    0
+ 40
+1
+281
+    0
+281
+    0
+ 75
+    0
+ 76
+    0
+175
+    0
+ 77
+    1
+272
+    2
+146
+1
+ 69
+    0
+ 70
+    0
+ 73
+    0
+174
+    0
+ 48
+0
+279
+    0
+172
+    1
+ 74
+    1
+ 71
+    0
+283
+    0
+ 47
+0
+142
+0
+145
+0
+340
+5F
+140
+2.5
+292
+    0
+284
+    8
+288
+    0
+ 78
+    8
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+    2
+  0
+BLOCK_RECORD
+  5
+1F
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+ 70
+    0
+280
+    1
+281
+    0
+  0
+BLOCK_RECORD
+  5
+1E
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+ 70
+    0
+280
+    1
+281
+    0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+20
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+    0
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+21
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1C
+330
+1B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+    0
+ 10
+0
+ 20
+0
+ 30
+0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+1D
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LINE
+  5
+65
+100
+AcDbEntity
+  8
+Стіни_Бліндажа
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5000
+ 20
+5125
+ 11
+9000
+ 21
+5125
+  0
+LINE
+  5
+66
+100
+AcDbEntity
+  8
+Стіни_Бліндажа
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5000
+ 20
+4875
+ 11
+9000
+ 21
+4875
+  0
+LINE
+  5
+67
+100
+AcDbEntity
+  8
+Стіни_Бліндажа
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8875
+ 20
+5000
+ 11
+8875
+ 21
+8000
+  0
+LINE
+  5
+68
+100
+AcDbEntity
+  8
+Стіни_Бліндажа
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+9125
+ 20
+5000
+ 11
+9125
+ 21
+8000
+  0
+LINE
+  5
+69
+100
+AcDbEntity
+  8
+Стіни_Бліндажа
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+9000
+ 20
+7875
+ 11
+5000
+ 21
+7875
+  0
+LINE
+  5
+6A
+100
+AcDbEntity
+  8
+Стіни_Бліндажа
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+9000
+ 20
+8125
+ 11
+5000
+ 21
+8125
+  0
+LINE
+  5
+6B
+100
+AcDbEntity
+  8
+Стіни_Бліндажа
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5125
+ 20
+8000
+ 11
+5125
+ 21
+5000
+  0
+LINE
+  5
+6C
+100
+AcDbEntity
+  8
+Стіни_Бліндажа
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4875
+ 20
+8000
+ 11
+4875
+ 21
+5000
+  0
+LINE
+  5
+6D
+100
+AcDbEntity
+  8
+Стіни_Бліндажа
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5000
+ 20
+5400
+ 11
+3000
+ 21
+5400
+  0
+LINE
+  5
+6E
+100
+AcDbEntity
+  8
+Стіни_Бліндажа
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5000
+ 20
+5600
+ 11
+3000
+ 21
+5600
+  0
+LINE
+  5
+6F
+100
+AcDbEntity
+  8
+Стіни_Бліндажа
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3100
+ 20
+5500
+ 11
+3100
+ 21
+4000
+  0
+LINE
+  5
+70
+100
+AcDbEntity
+  8
+Стіни_Бліндажа
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+2900
+ 20
+5500
+ 11
+2900
+ 21
+4000
+  0
+LINE
+  5
+71
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+9454.77272147525
+ 20
+4500
+ 11
+9500
+ 21
+4545.22727852475
+  0
+LINE
+  5
+72
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+9242.640687119287
+ 20
+4500
+ 11
+9500
+ 21
+4757.359312880713
+  0
+LINE
+  5
+73
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+9030.508652763321
+ 20
+4500
+ 11
+9500.000000000002
+ 21
+4969.491347236679
+  0
+LINE
+  5
+74
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8818.376618407359
+ 20
+4500
+ 11
+9500
+ 21
+5181.623381592642
+  0
+LINE
+  5
+75
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8606.244584051392
+ 20
+4499.999999999999
+ 11
+9500
+ 21
+5393.755415948607
+  0
+LINE
+  5
+76
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8394.112549695428
+ 20
+4500
+ 11
+9500
+ 21
+5605.887450304573
+  0
+LINE
+  5
+77
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+8181.980515339464
+ 20
+4500
+ 11
+9500
+ 21
+5818.019484660536
+  0
+LINE
+  5
+78
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7969.848480983499
+ 20
+4499.999999999999
+ 11
+9500
+ 21
+6030.151519016499
+  0
+LINE
+  5
+79
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7757.716446627535
+ 20
+4499.999999999999
+ 11
+9500
+ 21
+6242.283553372464
+  0
+LINE
+  5
+7A
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7545.584412271572
+ 20
+4499.999999999999
+ 11
+9500
+ 21
+6454.415587728427
+  0
+LINE
+  5
+7B
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7333.452377915605
+ 20
+4500
+ 11
+9500
+ 21
+6666.547622084394
+  0
+LINE
+  5
+7C
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+7121.320343559642
+ 20
+4500
+ 11
+9500
+ 21
+6878.679656440358
+  0
+LINE
+  5
+7D
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6909.188309203678
+ 20
+4500
+ 11
+9500
+ 21
+7090.811690796321
+  0
+LINE
+  5
+7E
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6697.056274847714
+ 20
+4500
+ 11
+9500
+ 21
+7302.943725152286
+  0
+LINE
+  5
+7F
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6484.92424049175
+ 20
+4499.999999999999
+ 11
+9500
+ 21
+7515.075759508249
+  0
+LINE
+  5
+80
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6272.792206135787
+ 20
+4500
+ 11
+9500
+ 21
+7727.207793864212
+  0
+LINE
+  5
+81
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+6060.660171779821
+ 20
+4500
+ 11
+9500
+ 21
+7939.339828220179
+  0
+LINE
+  5
+82
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5848.528137423856
+ 20
+4500
+ 11
+9500
+ 21
+8151.471862576144
+  0
+LINE
+  5
+83
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5636.396103067892
+ 20
+4500
+ 11
+9500
+ 21
+8363.603896932107
+  0
+LINE
+  5
+84
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5424.264068711928
+ 20
+4500
+ 11
+9424.264068711929
+ 21
+8500
+  0
+LINE
+  5
+85
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5212.132034355964
+ 20
+4500
+ 11
+9212.132034355966
+ 21
+8500
+  0
+LINE
+  5
+86
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5000
+ 20
+4499.999999999999
+ 11
+9000.000000000002
+ 21
+8500
+  0
+LINE
+  5
+87
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4787.867965644036
+ 20
+4500
+ 11
+8787.867965644038
+ 21
+8500
+  0
+LINE
+  5
+88
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4575.735931288071
+ 20
+4500
+ 11
+8575.735931288071
+ 21
+8500
+  0
+LINE
+  5
+89
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4500
+ 20
+4636.396103067893
+ 11
+8363.603896932107
+ 21
+8500
+  0
+LINE
+  5
+8A
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4500
+ 20
+4848.528137423858
+ 11
+8151.471862576143
+ 21
+8500
+  0
+LINE
+  5
+8B
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4500
+ 20
+5060.660171779822
+ 11
+7939.339828220179
+ 21
+8500
+  0
+LINE
+  5
+8C
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4500
+ 20
+5272.792206135786
+ 11
+7727.207793864215
+ 21
+8500
+  0
+LINE
+  5
+8D
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4500
+ 20
+5484.92424049175
+ 11
+7515.075759508251
+ 21
+8500
+  0
+LINE
+  5
+8E
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4500
+ 20
+5697.056274847714
+ 11
+7302.943725152288
+ 21
+8500
+  0
+LINE
+  5
+8F
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4500
+ 20
+5909.18830920368
+ 11
+7090.811690796322
+ 21
+8500
+  0
+LINE
+  5
+90
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4500
+ 20
+6121.320343559642
+ 11
+6878.679656440358
+ 21
+8500
+  0
+LINE
+  5
+91
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4500
+ 20
+6333.452377915606
+ 11
+6666.547622084395
+ 21
+8500
+  0
+LINE
+  5
+92
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4500
+ 20
+6545.584412271571
+ 11
+6454.41558772843
+ 21
+8500
+  0
+LINE
+  5
+93
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4500
+ 20
+6757.716446627535
+ 11
+6242.283553372466
+ 21
+8500
+  0
+LINE
+  5
+94
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4500
+ 20
+6969.848480983499
+ 11
+6030.151519016503
+ 21
+8500
+  0
+LINE
+  5
+95
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4500
+ 20
+7181.980515339463
+ 11
+5818.019484660537
+ 21
+8500
+  0
+LINE
+  5
+96
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4500
+ 20
+7394.11254969543
+ 11
+5605.887450304571
+ 21
+8500
+  0
+LINE
+  5
+97
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4500
+ 20
+7606.244584051393
+ 11
+5393.755415948607
+ 21
+8500
+  0
+LINE
+  5
+98
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4500
+ 20
+7818.376618407357
+ 11
+5181.623381592643
+ 21
+8500
+  0
+LINE
+  5
+99
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4500
+ 20
+8030.50865276332
+ 11
+4969.491347236681
+ 21
+8500
+  0
+LINE
+  5
+9A
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4500
+ 20
+8242.640687119285
+ 11
+4757.359312880716
+ 21
+8500
+  0
+LINE
+  5
+9B
+100
+AcDbEntity
+  8
+Засипка_Землею
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4500
+ 20
+8454.772721475249
+ 11
+4545.227278524752
+ 21
+8500
+  0
+MTEXT
+  5
+9C
+100
+AcDbEntity
+  8
+Анотації_Бліндаж
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbMText
+ 10
+5000
+ 20
+9500
+ 30
+0
+ 40
+300
+ 41
+0
+ 71
+    1
+ 72
+    1
+  1
+ПЛАН БЛІНДАЖА (ВИД ЗВЕРХУ)\nЗахист від 152-мм снарядів
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    1
+ 44
+1
+  0
+MTEXT
+  5
+9D
+100
+AcDbEntity
+  8
+Анотації_Бліндаж
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbMText
+ 10
+6000
+ 20
+6500
+ 30
+0
+ 40
+150
+ 41
+0
+ 71
+    1
+ 72
+    1
+  1
+Основне приміщення\n(4000 х 3000 мм)
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    1
+ 44
+1
+  0
+MTEXT
+  5
+9E
+100
+AcDbEntity
+  8
+Анотації_Бліндаж
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbMText
+ 10
+3200
+ 20
+4800
+ 30
+0
+ 40
+150
+ 41
+0
+ 71
+    1
+ 72
+    1
+  1
+Вхідний тамбур\n(зигзаг)
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    1
+ 44
+1
+  0
+MTEXT
+  5
+9F
+100
+AcDbEntity
+  8
+Розміри_Бліндаж
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbMText
+ 10
+7000
+ 20
+6500
+ 30
+0
+ 40
+150
+ 41
+0
+ 71
+    1
+ 72
+    1
+  1
+Площа укриття\P12.00 m2
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    1
+ 44
+1
+  0
+LINE
+  5
+A0
+100
+AcDbEntity
+  8
+Конструктив_Захищений
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0
+ 20
+300
+ 11
+4500
+ 21
+300
+  0
+LINE
+  5
+A1
+100
+AcDbEntity
+  8
+Конструктив_Захищений
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0
+ 20
+-300
+ 11
+4500
+ 21
+-300
+  0
+LINE
+  5
+A2
+100
+AcDbEntity
+  8
+Конструктив_Захищений
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4200
+ 20
+0
+ 11
+4200
+ 21
+3500
+  0
+LINE
+  5
+A3
+100
+AcDbEntity
+  8
+Конструктив_Захищений
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4800
+ 20
+0
+ 11
+4800
+ 21
+3500
+  0
+LINE
+  5
+A4
+100
+AcDbEntity
+  8
+Конструктив_Захищений
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4500
+ 20
+3200
+ 11
+0
+ 21
+3200
+  0
+LINE
+  5
+A5
+100
+AcDbEntity
+  8
+Конструктив_Захищений
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4500
+ 20
+3800
+ 11
+0
+ 21
+3800
+  0
+LINE
+  5
+A6
+100
+AcDbEntity
+  8
+Конструктив_Захищений
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+300
+ 20
+3500
+ 11
+300
+ 21
+0
+  0
+LINE
+  5
+A7
+100
+AcDbEntity
+  8
+Конструктив_Захищений
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-300
+ 20
+3500
+ 11
+-300
+ 21
+0
+  0
+LINE
+  5
+A8
+100
+AcDbEntity
+  8
+Конструктив_Захищений
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0
+ 20
+1000
+ 11
+0
+ 21
+2200
+  0
+ARC
+  5
+A9
+100
+AcDbEntity
+  8
+Конструктив_Захищений
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+0
+ 20
+1000
+ 40
+1200
+100
+AcDbArc
+ 50
+90
+ 51
+180
+  0
+LINE
+  5
+AA
+100
+AcDbEntity
+  8
+Конструктив_Захищений
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0
+ 20
+1400
+ 11
+-2000
+ 21
+1400
+  0
+LINE
+  5
+AB
+100
+AcDbEntity
+  8
+Конструктив_Захищений
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0
+ 20
+1800
+ 11
+-2000
+ 21
+1800
+  0
+LINE
+  5
+AC
+100
+AcDbEntity
+  8
+Конструктив_Захищений
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-1800
+ 20
+1600
+ 11
+-1800
+ 21
+-1000
+  0
+LINE
+  5
+AD
+100
+AcDbEntity
+  8
+Конструктив_Захищений
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-2200
+ 20
+1600
+ 11
+-2200
+ 21
+-1000
+  0
+LINE
+  5
+AE
+100
+AcDbEntity
+  8
+Конструктив_Захищений
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-2000
+ 20
+-800
+ 11
+1000
+ 21
+-800
+  0
+LINE
+  5
+AF
+100
+AcDbEntity
+  8
+Конструктив_Захищений
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-2000
+ 20
+-1200
+ 11
+1000
+ 21
+-1200
+  0
+LINE
+  5
+B0
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5952.438661763948
+ 20
+-2000.000000000001
+ 11
+6000
+ 21
+-1952.43866176395
+  0
+LINE
+  5
+B1
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5811.017305526641
+ 20
+-2000
+ 11
+6000
+ 21
+-1811.017305526642
+  0
+LINE
+  5
+B2
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5669.595949289331
+ 20
+-2000
+ 11
+6000.000000000001
+ 21
+-1669.595949289329
+  0
+LINE
+  5
+B3
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5528.174593052022
+ 20
+-1999.999999999999
+ 11
+5999.999999999999
+ 21
+-1528.174593052022
+  0
+LINE
+  5
+B4
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5386.753236814711
+ 20
+-2000.000000000001
+ 11
+6000.000000000001
+ 21
+-1386.753236814711
+  0
+LINE
+  5
+B5
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5245.331880577402
+ 20
+-2000.000000000001
+ 11
+6000.000000000001
+ 21
+-1245.331880577402
+  0
+LINE
+  5
+B6
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+5103.910524340095
+ 20
+-2000
+ 11
+5999.999999999999
+ 21
+-1103.910524340095
+  0
+LINE
+  5
+B7
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4962.489168102784
+ 20
+-2000
+ 11
+6000
+ 21
+-962.4891681027835
+  0
+LINE
+  5
+B8
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4821.067811865474
+ 20
+-2000
+ 11
+6000
+ 21
+-821.0678118654746
+  0
+LINE
+  5
+B9
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4679.646455628163
+ 20
+-2000.000000000001
+ 11
+5999.999999999999
+ 21
+-679.6464556281653
+  0
+LINE
+  5
+BA
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4538.225099390857
+ 20
+-1999.999999999999
+ 11
+6000
+ 21
+-538.225099390856
+  0
+LINE
+  5
+BB
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4396.803743153546
+ 20
+-2000
+ 11
+6000
+ 21
+-396.8037431535451
+  0
+LINE
+  5
+BC
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4255.382386916237
+ 20
+-2000
+ 11
+6000.000000000001
+ 21
+-255.3823869162359
+  0
+LINE
+  5
+BD
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+4113.961030678925
+ 20
+-2000
+ 11
+6000.000000000001
+ 21
+-113.9610306789249
+  0
+LINE
+  5
+BE
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3972.539674441617
+ 20
+-2000
+ 11
+6000.000000000001
+ 21
+27.46032555838428
+  0
+LINE
+  5
+BF
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3831.118318204306
+ 20
+-2000
+ 11
+6000
+ 21
+168.8816817956934
+  0
+LINE
+  5
+C0
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3689.696961966997
+ 20
+-2000
+ 11
+5999.999999999998
+ 21
+310.3030380330007
+  0
+LINE
+  5
+C1
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3548.275605729688
+ 20
+-2000.000000000001
+ 11
+6000.000000000001
+ 21
+451.7243942703118
+  0
+LINE
+  5
+C2
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3406.854249492379
+ 20
+-2000
+ 11
+6000
+ 21
+593.145750507621
+  0
+LINE
+  5
+C3
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3265.43289325507
+ 20
+-2000
+ 11
+6000
+ 21
+734.5671067449301
+  0
+LINE
+  5
+C4
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3124.01153701776
+ 20
+-2000
+ 11
+6000.000000000001
+ 21
+875.9884629822411
+  0
+LINE
+  5
+C5
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+2982.590180780451
+ 20
+-2000
+ 11
+6000
+ 21
+1017.409819219548
+  0
+LINE
+  5
+C6
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+2841.168824543142
+ 20
+-2000
+ 11
+6000
+ 21
+1158.831175456857
+  0
+LINE
+  5
+C7
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+2699.747468305832
+ 20
+-2000
+ 11
+6000
+ 21
+1300.252531694169
+  0
+LINE
+  5
+C8
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+2558.326112068522
+ 20
+-2000
+ 11
+6000.000000000003
+ 21
+1441.673887931479
+  0
+LINE
+  5
+C9
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+2416.904755831213
+ 20
+-2000
+ 11
+5999.999999999999
+ 21
+1583.095244168787
+  0
+LINE
+  5
+CA
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+2275.483399593903
+ 20
+-2000
+ 11
+5999.999999999998
+ 21
+1724.516600406094
+  0
+LINE
+  5
+CB
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+2134.062043356593
+ 20
+-2000
+ 11
+6000.000000000001
+ 21
+1865.937956643407
+  0
+LINE
+  5
+CC
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1992.640687119285
+ 20
+-2000
+ 11
+5999.999999999999
+ 21
+2007.359312880714
+  0
+LINE
+  5
+CD
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1851.219330881974
+ 20
+-2000
+ 11
+6000
+ 21
+2148.780669118025
+  0
+LINE
+  5
+CE
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1709.797974644665
+ 20
+-2000
+ 11
+6000
+ 21
+2290.202025355335
+  0
+LINE
+  5
+CF
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1568.376618407356
+ 20
+-2000
+ 11
+6000.000000000002
+ 21
+2431.623381592645
+  0
+LINE
+  5
+D0
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1426.955262170046
+ 20
+-2000
+ 11
+6000.000000000001
+ 21
+2573.044737829955
+  0
+LINE
+  5
+D1
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1285.533905932735
+ 20
+-2000
+ 11
+5999.999999999999
+ 21
+2714.466094067264
+  0
+LINE
+  5
+D2
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1144.112549695427
+ 20
+-2000
+ 11
+6000.000000000003
+ 21
+2855.887450304575
+  0
+LINE
+  5
+D3
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1002.691193458119
+ 20
+-2000
+ 11
+5999.999999999999
+ 21
+2997.308806541879
+  0
+LINE
+  5
+D4
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+861.269837220808
+ 20
+-2000
+ 11
+5999.999999999999
+ 21
+3138.730162779192
+  0
+LINE
+  5
+D5
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+719.8484809834997
+ 20
+-2000
+ 11
+6000
+ 21
+3280.151519016499
+  0
+LINE
+  5
+D6
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+578.4271247461887
+ 20
+-2000.000000000001
+ 11
+6000
+ 21
+3421.572875253811
+  0
+LINE
+  5
+D7
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+437.0057685088796
+ 20
+-2000
+ 11
+6000
+ 21
+3562.994231491121
+  0
+LINE
+  5
+D8
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+295.5844122715694
+ 20
+-2000
+ 11
+5999.999999999999
+ 21
+3704.415587728429
+  0
+LINE
+  5
+D9
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+154.1630560342612
+ 20
+-2000
+ 11
+6000.000000000002
+ 21
+3845.836943965741
+  0
+LINE
+  5
+DA
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+12.7416997969511
+ 20
+-2000
+ 11
+6000.000000000001
+ 21
+3987.258300203049
+  0
+LINE
+  5
+DB
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-128.6796564403581
+ 20
+-2000
+ 11
+5999.999999999999
+ 21
+4128.679656440358
+  0
+LINE
+  5
+DC
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-270.1010126776673
+ 20
+-2000
+ 11
+6000.000000000001
+ 21
+4270.101012677667
+  0
+LINE
+  5
+DD
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-411.5223689149764
+ 20
+-1999.999999999999
+ 11
+6000
+ 21
+4411.522368914977
+  0
+LINE
+  5
+DE
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-552.9437251522864
+ 20
+-2000
+ 11
+6000
+ 21
+4552.943725152287
+  0
+LINE
+  5
+DF
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-694.3650813895966
+ 20
+-2000
+ 11
+5999.999999999998
+ 21
+4694.365081389595
+  0
+LINE
+  5
+E0
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-835.7864376269067
+ 20
+-2000
+ 11
+6000.000000000001
+ 21
+4835.786437626907
+  0
+LINE
+  5
+E1
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-977.2077938642159
+ 20
+-2000.000000000001
+ 11
+6000
+ 21
+4977.207793864215
+  0
+LINE
+  5
+E2
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-1118.629150101525
+ 20
+-2000
+ 11
+5999.999999999999
+ 21
+5118.629150101524
+  0
+LINE
+  5
+E3
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-1260.050506338835
+ 20
+-2000
+ 11
+6000.000000000001
+ 21
+5260.050506338835
+  0
+LINE
+  5
+E4
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-1401.471862576144
+ 20
+-2000
+ 11
+6000.000000000001
+ 21
+5401.471862576145
+  0
+LINE
+  5
+E5
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-1542.893218813453
+ 20
+-2000
+ 11
+5957.106781186547
+ 21
+5500
+  0
+LINE
+  5
+E6
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-1684.314575050763
+ 20
+-2000
+ 11
+5815.685424949239
+ 21
+5500.000000000002
+  0
+LINE
+  5
+E7
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-1825.735931288073
+ 20
+-2000
+ 11
+5674.264068711926
+ 21
+5499.999999999999
+  0
+LINE
+  5
+E8
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-1967.157287525382
+ 20
+-2000
+ 11
+5532.842712474617
+ 21
+5499.999999999999
+  0
+LINE
+  5
+E9
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-2108.578643762692
+ 20
+-2000
+ 11
+5391.421356237309
+ 21
+5500.000000000001
+  0
+LINE
+  5
+EA
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-2250.000000000001
+ 20
+-2000
+ 11
+5249.999999999999
+ 21
+5500
+  0
+LINE
+  5
+EB
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-2391.421356237311
+ 20
+-2000.000000000001
+ 11
+5108.578643762689
+ 21
+5500
+  0
+LINE
+  5
+EC
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-2532.842712474619
+ 20
+-2000
+ 11
+4967.157287525381
+ 21
+5499.999999999999
+  0
+LINE
+  5
+ED
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-2674.264068711931
+ 20
+-2000
+ 11
+4825.735931288071
+ 21
+5500.000000000001
+  0
+LINE
+  5
+EE
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-2815.685424949239
+ 20
+-2000
+ 11
+4684.314575050761
+ 21
+5500
+  0
+LINE
+  5
+EF
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-2957.106781186549
+ 20
+-2000
+ 11
+4542.89321881345
+ 21
+5499.999999999999
+  0
+LINE
+  5
+F0
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+-1901.471862576141
+ 11
+4401.471862576141
+ 21
+5499.999999999999
+  0
+LINE
+  5
+F1
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+-1760.050506338833
+ 11
+4260.050506338834
+ 21
+5500.000000000001
+  0
+LINE
+  5
+F2
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+-1618.629150101523
+ 11
+4118.629150101523
+ 21
+5500
+  0
+LINE
+  5
+F3
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+-1477.207793864213
+ 11
+3977.207793864213
+ 21
+5500
+  0
+LINE
+  5
+F4
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+-1335.786437626904
+ 11
+3835.786437626903
+ 21
+5499.999999999999
+  0
+LINE
+  5
+F5
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+-1194.365081389594
+ 11
+3694.365081389593
+ 21
+5499.999999999998
+  0
+LINE
+  5
+F6
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-2999.999999999999
+ 20
+-1052.943725152284
+ 11
+3552.943725152285
+ 21
+5500
+  0
+LINE
+  5
+F7
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+-911.5223689149759
+ 11
+3411.522368914975
+ 21
+5499.999999999999
+  0
+LINE
+  5
+F8
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+-770.1010126776667
+ 11
+3270.101012677667
+ 21
+5500.000000000001
+  0
+LINE
+  5
+F9
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+-628.6796564403567
+ 11
+3128.679656440355
+ 21
+5499.999999999999
+  0
+LINE
+  5
+FA
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+-487.2583002030466
+ 11
+2987.258300203047
+ 21
+5500
+  0
+LINE
+  5
+FB
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-2999.999999999999
+ 20
+-345.8369439657365
+ 11
+2845.836943965737
+ 21
+5500
+  0
+LINE
+  5
+FC
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+-204.4155877284273
+ 11
+2704.415587728429
+ 21
+5500.000000000001
+  0
+LINE
+  5
+FD
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+-62.99423149111905
+ 11
+2562.994231491117
+ 21
+5499.999999999998
+  0
+LINE
+  5
+FE
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+78.42712474619104
+ 11
+2421.572875253808
+ 21
+5500
+  0
+LINE
+  5
+FF
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+219.8484809835002
+ 11
+2280.151519016501
+ 21
+5500.000000000001
+  0
+LINE
+  5
+100
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+361.2698372208112
+ 11
+2138.730162779189
+ 21
+5499.999999999999
+  0
+LINE
+  5
+101
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+502.6911934581195
+ 11
+1997.308806541879
+ 21
+5499.999999999998
+  0
+LINE
+  5
+102
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+644.1125496954305
+ 11
+1855.88745030457
+ 21
+5500
+  0
+LINE
+  5
+103
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+785.5339059327388
+ 11
+1714.466094067263
+ 21
+5500.000000000002
+  0
+LINE
+  5
+104
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+926.9552621700498
+ 11
+1573.04473782995
+ 21
+5499.999999999999
+  0
+LINE
+  5
+105
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+1068.376618407358
+ 11
+1431.623381592643
+ 21
+5500
+  0
+LINE
+  5
+106
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+1209.797974644666
+ 11
+1290.202025355335
+ 21
+5500.000000000002
+  0
+LINE
+  5
+107
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+1351.219330881977
+ 11
+1148.780669118024
+ 21
+5500.000000000001
+  0
+LINE
+  5
+108
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+1492.640687119286
+ 11
+1007.359312880713
+ 21
+5499.999999999999
+  0
+LINE
+  5
+109
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+1634.062043356596
+ 11
+865.9379566434021
+ 21
+5499.999999999998
+  0
+LINE
+  5
+10A
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+1775.483399593906
+ 11
+724.5166004060949
+ 21
+5500
+  0
+LINE
+  5
+10B
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+1916.904755831214
+ 11
+583.0952441687856
+ 21
+5500
+  0
+LINE
+  5
+10C
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+2058.326112068525
+ 11
+441.6738879314747
+ 21
+5499.999999999999
+  0
+LINE
+  5
+10D
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+2199.747468305834
+ 11
+300.2525316941655
+ 21
+5499.999999999999
+  0
+LINE
+  5
+10E
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-2999.999999999999
+ 20
+2341.168824543145
+ 11
+158.8311754568563
+ 21
+5500.000000000001
+  0
+LINE
+  5
+10F
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+2482.590180780453
+ 11
+17.40981921954713
+ 21
+5499.999999999999
+  0
+LINE
+  5
+110
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+2624.011537017763
+ 11
+-124.011537017762
+ 21
+5500.000000000001
+  0
+LINE
+  5
+111
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+2765.432893255072
+ 11
+-265.4328932550712
+ 21
+5500
+  0
+LINE
+  5
+112
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+2906.854249492381
+ 11
+-406.8542494923804
+ 21
+5500
+  0
+LINE
+  5
+113
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-2999.999999999999
+ 20
+3048.275605729692
+ 11
+-548.2756057296914
+ 21
+5500
+  0
+LINE
+  5
+114
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+3189.696961967
+ 11
+-689.6969619670006
+ 21
+5499.999999999999
+  0
+LINE
+  5
+115
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+3331.11831820431
+ 11
+-831.1183182043097
+ 21
+5500.000000000001
+  0
+LINE
+  5
+116
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+3472.539674441619
+ 11
+-972.5396744416207
+ 21
+5499.999999999998
+  0
+LINE
+  5
+117
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+3613.96103067893
+ 11
+-1113.961030678928
+ 21
+5500.000000000001
+  0
+LINE
+  5
+118
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-2999.999999999999
+ 20
+3755.382386916239
+ 11
+-1255.382386916237
+ 21
+5500.000000000001
+  0
+LINE
+  5
+119
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+3896.803743153549
+ 11
+-1396.803743153548
+ 21
+5500.000000000001
+  0
+LINE
+  5
+11A
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+4038.225099390857
+ 11
+-1538.225099390859
+ 21
+5499.999999999998
+  0
+LINE
+  5
+11B
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+4179.646455628166
+ 11
+-1679.646455628167
+ 21
+5500
+  0
+LINE
+  5
+11C
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+4321.067811865477
+ 11
+-1821.067811865476
+ 21
+5500.000000000001
+  0
+LINE
+  5
+11D
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+4462.489168102786
+ 11
+-1962.489168102785
+ 21
+5500
+  0
+LINE
+  5
+11E
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+4603.910524340096
+ 11
+-2103.910524340098
+ 21
+5499.999999999998
+  0
+LINE
+  5
+11F
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+4745.331880577405
+ 11
+-2245.331880577405
+ 21
+5500
+  0
+LINE
+  5
+120
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+4886.753236814713
+ 11
+-2386.753236814713
+ 21
+5500.000000000001
+  0
+LINE
+  5
+121
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+5028.174593052024
+ 11
+-2528.174593052024
+ 21
+5499.999999999999
+  0
+LINE
+  5
+122
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+5169.595949289333
+ 11
+-2669.595949289333
+ 21
+5500
+  0
+LINE
+  5
+123
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+5311.017305526643
+ 11
+-2811.017305526643
+ 21
+5500.000000000001
+  0
+LINE
+  5
+124
+100
+AcDbEntity
+  8
+Захисний_Шар_Грунт
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-3000
+ 20
+5452.438661763952
+ 11
+-2952.438661763952
+ 21
+5500
+  0
+LINE
+  5
+125
+100
+AcDbEntity
+  8
+Внутрішні_Елементи
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1700
+ 20
+0
+ 11
+1700
+ 21
+2500
+  0
+LINE
+  5
+126
+100
+AcDbEntity
+  8
+Внутрішні_Елементи
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1900
+ 20
+0
+ 11
+1900
+ 21
+2500
+  0
+MTEXT
+  5
+127
+100
+AcDbEntity
+  8
+Внутрішні_Елементи
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbMText
+ 10
+0
+ 20
+6500
+ 30
+0
+ 40
+300
+ 41
+0
+ 71
+    1
+ 72
+    1
+  1
+ПОСИЛЕНИЙ БЛІНДАЖ (КЛАС ЗАХИСТУ: ВАЖКА АРТА)\nПерекриття: 3-4 шари колод + 2м грунту
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    1
+ 44
+1
+  0
+MTEXT
+  5
+128
+100
+AcDbEntity
+  8
+Внутрішні_Елементи
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbMText
+ 10
+-1800
+ 20
+300
+ 30
+0
+ 40
+150
+ 41
+0
+ 71
+    1
+ 72
+    1
+  1
+ПРОТИВИБУХОВИЙ\nТАМБУР-ЗИГЗАГ
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    1
+ 44
+1
+  0
+MTEXT
+  5
+129
+100
+AcDbEntity
+  8
+Внутрішні_Елементи
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbMText
+ 10
+2200
+ 20
+1700
+ 30
+0
+ 40
+180
+ 41
+0
+ 71
+    1
+ 72
+    1
+  1
+ЖИТЛОВА ЗОНА\n(ПОЗА ЗОНОЮ УЛАМКІВ)
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    1
+ 44
+1
+  0
+MTEXT
+  5
+12A
+100
+AcDbEntity
+  8
+Внутрішні_Елементи
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbMText
+ 10
+4800
+ 20
+1500
+ 30
+0
+ 40
+120
+ 41
+0
+ 71
+    1
+ 72
+    1
+  1
+БЕТОН/КРУГЛЯК\nТОВЩИНА 600мм
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    1
+ 44
+1
+  0
+MTEXT
+  5
+12B
+100
+AcDbEntity
+  8
+Внутрішні_Елементи
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbMText
+ 10
+0
+ 20
+-2500
+ 30
+0
+ 40
+150
+ 41
+0
+ 71
+    1
+ 72
+    1
+  1
+БЕРМА ТА ВОДОВІДВІД\n(ЗАХИСТ ВІД ЗАТОПЛЕННЯ)
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    1
+ 44
+1
+  0
+MTEXT
+  5
+12C
+100
+AcDbEntity
+  8
+Внутрішні_Елементи
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbMText
+ 10
+2250
+ 20
+1750
+ 30
+0
+ 40
+150
+ 41
+0
+ 71
+    1
+ 72
+    1
+  1
+Внутрішній простір\P15.75 m2
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    1
+ 44
+1
+  0
+CIRCLE
+  5
+12D
+100
+AcDbEntity
+  8
+Внутрішні_Елементи
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0
+  0
+MTEXT
+  5
+12E
+100
+AcDbEntity
+  8
+Внутрішні_Елементи
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbMText
+ 10
+4200
+ 20
+3200
+ 30
+0
+ 40
+100
+ 41
+0
+ 71
+    1
+ 72
+    1
+  1
+ВЕНТИЛЯЦІЯ\n(Г-ПОДІБНА ТРУБА)
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    1
+ 44
+1
+  0
+TEXT
+  5
+12F
+100
+AcDbEntity
+  8
+Анотації_ВИДИМІ
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbText
+ 10
+0
+ 20
+7000
+ 30
+0
+ 40
+500
+  1
+БЛІНДАЖ: ВИД ЗВЕРХУ
+ 50
+0
+ 41
+1
+ 51
+0
+  7
+standard
+ 71
+    0
+ 72
+    1
+ 11
+0
+ 21
+7000
+ 31
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+ 73
+    1
+  0
+TEXT
+  5
+130
+100
+AcDbEntity
+  8
+Анотації_ВИДИМІ
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbText
+ 10
+1000
+ 20
+1500
+ 30
+0
+ 40
+300
+  1
+ЖИТЛОВА ЗОНА
+ 50
+0
+ 41
+1
+ 51
+0
+  7
+standard
+ 71
+    0
+ 72
+    1
+ 11
+1000
+ 21
+1500
+ 31
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+ 73
+    1
+  0
+TEXT
+  5
+131
+100
+AcDbEntity
+  8
+Анотації_ВИДИМІ
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbText
+ 10
+-2500
+ 20
+500
+ 30
+0
+ 40
+300
+  1
+ТАМБУР-ЗИГЗАГ
+ 50
+0
+ 41
+1
+ 51
+0
+  7
+standard
+ 71
+    0
+ 72
+    1
+ 11
+-2500
+ 21
+500
+ 31
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+ 73
+    1
+  0
+TEXT
+  5
+132
+100
+AcDbEntity
+  8
+Анотації_ВИДИМІ
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbText
+ 10
+4000
+ 20
+4000
+ 30
+0
+ 40
+250
+  1
+ВЕНТИЛЯЦІЯ
+ 50
+0
+ 41
+1
+ 51
+0
+  7
+standard
+ 71
+    0
+ 72
+    1
+ 11
+4000
+ 21
+4000
+ 31
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+ 73
+    1
+  0
+TEXT
+  5
+133
+100
+AcDbEntity
+  8
+Анотації_ВИДИМІ
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbText
+ 10
+5000
+ 20
+1500
+ 30
+0
+ 40
+200
+  1
+СТІНИ 600мм
+ 50
+0
+ 41
+1
+ 51
+0
+  7
+standard
+ 71
+    0
+ 72
+    1
+ 11
+5000
+ 21
+1500
+ 31
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+ 73
+    1
+  0
+TEXT
+  5
+134
+100
+AcDbEntity
+  8
+Анотації_УКР_ВИДИМІ
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbText
+ 10
+0
+ 20
+7000
+ 30
+0
+ 40
+500
+  1
+БЛІНДАЖ: ВИД ЗВЕРХУ (УКР)
+ 50
+0
+ 41
+1
+ 51
+0
+  7
+unicode
+ 71
+    0
+ 72
+    1
+ 11
+0
+ 21
+7000
+ 31
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+ 73
+    1
+  0
+TEXT
+  5
+135
+100
+AcDbEntity
+  8
+Анотації_УКР_ВИДИМІ
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbText
+ 10
+2000
+ 20
+1500
+ 30
+0
+ 40
+300
+  1
+ЖИТЛОВА ЗОНА
+ 50
+0
+ 41
+1
+ 51
+0
+  7
+unicode
+ 71
+    0
+ 72
+    1
+ 11
+2000
+ 21
+1500
+ 31
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+ 73
+    1
+  0
+TEXT
+  5
+136
+100
+AcDbEntity
+  8
+Анотації_УКР_ВИДИМІ
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbText
+ 10
+-1500
+ 20
+500
+ 30
+0
+ 40
+300
+  1
+ТАМБУР-ЗИГЗАГ
+ 50
+0
+ 41
+1
+ 51
+0
+  7
+unicode
+ 71
+    0
+ 72
+    1
+ 11
+-1500
+ 21
+500
+ 31
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+ 73
+    1
+  0
+TEXT
+  5
+137
+100
+AcDbEntity
+  8
+Анотації_УКР_ВИДИМІ
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbText
+ 10
+4000
+ 20
+3500
+ 30
+0
+ 40
+250
+  1
+ВЕНТИЛЯЦІЯ
+ 50
+0
+ 41
+1
+ 51
+0
+  7
+unicode
+ 71
+    0
+ 72
+    1
+ 11
+4000
+ 21
+3500
+ 31
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+ 73
+    1
+  0
+TEXT
+  5
+138
+100
+AcDbEntity
+  8
+Анотації_УКР_ВИДИМІ
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbText
+ 10
+5000
+ 20
+1500
+ 30
+0
+ 40
+200
+  1
+СТІНИ 600мм (БЕТОН)
+ 50
+0
+ 41
+1
+ 51
+0
+  7
+unicode
+ 71
+    0
+ 72
+    1
+ 11
+5000
+ 21
+1500
+ 31
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+ 73
+    1
+  0
+LWPOLYLINE
+  5
+139
+100
+AcDbEntity
+  8
+Інтер_єр_Детально
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+2000
+ 20
+100
+ 10
+2800
+ 20
+100
+ 10
+2800
+ 20
+2000
+ 10
+2000
+ 20
+2000
+  0
+LWPOLYLINE
+  5
+13A
+100
+AcDbEntity
+  8
+Інтер_єр_Детально
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+2900
+ 20
+100
+ 10
+3700
+ 20
+100
+ 10
+3700
+ 20
+2000
+ 10
+2900
+ 20
+2000
+  0
+TEXT
+  5
+13B
+100
+AcDbEntity
+  8
+Інтер_єр_Детально
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbText
+ 10
+2200
+ 20
+2100
+ 30
+0
+ 40
+120
+  1
+НАРИ (4 МІСЦЯ)
+ 50
+0
+ 41
+1
+ 51
+0
+  7
+unicode
+ 71
+    0
+ 72
+    1
+ 11
+2200
+ 21
+2100
+ 31
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+ 73
+    1
+  0
+LWPOLYLINE
+  5
+13C
+100
+AcDbEntity
+  8
+Інтер_єр_Детально
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+3400
+ 20
+2800
+ 10
+4400
+ 20
+2800
+ 10
+4400
+ 20
+3400
+ 10
+3400
+ 20
+3400
+  0
+CIRCLE
+  5
+13D
+100
+AcDbEntity
+  8
+Інтер_єр_Детально
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0
+  0
+TEXT
+  5
+13E
+100
+AcDbEntity
+  8
+Інтер_єр_Детально
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbText
+ 10
+3400
+ 20
+2600
+ 30
+0
+ 40
+120
+  1
+ПОСТ STARLINK
+ 50
+0
+ 41
+1
+ 51
+0
+  7
+unicode
+ 71
+    0
+ 72
+    1
+ 11
+3400
+ 21
+2600
+ 31
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+ 73
+    1
+  0
+LWPOLYLINE
+  5
+13F
+100
+AcDbEntity
+  8
+Інтер_єр_Детально
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+2000
+ 20
+2800
+ 10
+2700
+ 20
+2800
+ 10
+2700
+ 20
+3300
+ 10
+2000
+ 20
+3300
+  0
+CIRCLE
+  5
+140
+100
+AcDbEntity
+  8
+Інтер_єр_Детально
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+0
+ 20
+0
+ 40
+0
+  0
+TEXT
+  5
+141
+100
+AcDbEntity
+  8
+Інтер_єр_Детально
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbText
+ 10
+2000
+ 20
+2600
+ 30
+0
+ 40
+120
+  1
+ПІЧКА ТА КУХНЯ
+ 50
+0
+ 41
+1
+ 51
+0
+  7
+unicode
+ 71
+    0
+ 72
+    1
+ 11
+2000
+ 21
+2600
+ 31
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+ 73
+    1
+  0
+LWPOLYLINE
+  5
+142
+100
+AcDbEntity
+  8
+Інтер_єр_Детально
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+3800
+ 20
+100
+ 10
+4200
+ 20
+100
+ 10
+4200
+ 20
+500
+ 10
+3800
+ 20
+500
+  0
+LWPOLYLINE
+  5
+143
+100
+AcDbEntity
+  8
+Інтер_єр_Детально
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+3800
+ 20
+600
+ 10
+4200
+ 20
+600
+ 10
+4200
+ 20
+1000
+ 10
+3800
+ 20
+1000
+  0
+TEXT
+  5
+144
+100
+AcDbEntity
+  8
+Інтер_єр_Детально
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbText
+ 10
+3800
+ 20
+1100
+ 30
+0
+ 40
+100
+  1
+ЯЩИКИ БК
+ 50
+0
+ 41
+1
+ 51
+0
+  7
+unicode
+ 71
+    0
+ 72
+    1
+ 11
+3800
+ 21
+1100
+ 31
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+ 73
+    1
+  0
+LWPOLYLINE
+  5
+145
+100
+AcDbEntity
+  8
+Інтер_єр_Детально
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+500
+ 20
+3000
+ 10
+800
+ 20
+3000
+ 10
+800
+ 20
+3300
+ 10
+500
+ 20
+3300
+  0
+TEXT
+  5
+146
+100
+AcDbEntity
+  8
+Інтер_єр_Детально
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbText
+ 10
+500
+ 20
+2800
+ 30
+0
+ 40
+80
+  1
+АПТЕЧКА
+ 50
+0
+ 41
+1
+ 51
+0
+  7
+unicode
+ 71
+    0
+ 72
+    1
+ 11
+500
+ 21
+2800
+ 31
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+ 73
+    1
+  0
+MTEXT
+  5
+147
+100
+AcDbEntity
+  8
+План_Будівництва
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbMText
+ 10
+7000
+ 20
+4000
+ 30
+0
+ 40
+150
+ 41
+0
+ 71
+    1
+ 72
+    1
+  3
+ЕТАПИ БУДІВНИЦТВА:\n1. Котлован (глибина 3.5-4м)\n2. Дренаж та підлога\n3. Стіни (кругляк/бетон)\n4. Внутрішня перегородка\n5. Перекриття (3-4 шари ко
+  1
+лод)\n6. Гідроізоляція та земля (2м)
+  7
+
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    1
+ 44
+1
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+281
+    1
+  3
+ACAD_GROUP
+350
+D
+  0
+DICTIONARY
+  5
+D
+330
+C
+100
+AcDbDictionary
+281
+    1
+  0
+PLOTSETTINGS
+  5
+148
+100
+AcDbPlotSettings
+  6
+1x1
+ 40
+0
+ 41
+0
+ 42
+0
+ 43
+0
+  0
+ENDSEC
+  0
+EOF
